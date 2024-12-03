@@ -1,0 +1,260 @@
+{
+  "mainSlider": [
+    {
+      "title": "",
+      "items": [
+        {
+          "tag": "Магнитно-резонансная терапия",
+          "title": "Лечение суставов <br>и позвоночника",
+          "price": "",
+          "image": "/images/main-gallery/slider-block.webp"
+        },
+        {
+          "tag": "Гирудотерапия",
+          "title": "Пиявка, постановка, перевязочный материал",
+          "price": "от 300 рублей за одну пиявку",
+          "image": "/images/main-gallery/slider-block-2.webp"
+        },
+        {
+          "tag": "Магнитно-резонансная терапия",
+          "title": "УВТ пяточной шпоры",
+          "price": "5 сеансов 5 000 рублей <span>6 000 рублей</span><br>10 сеансов 10 000 рублей <span>12 000 рублей</span>",
+          "image": "/images/main-gallery/slider-block-3.webp"
+        },
+        {
+          "tag": "Гирудотерапия",
+          "title": "Обучение гирудотерапии",
+          "price": "Очно, заочно и онлайн. Быстро и недорого курсы от 6 000 рублей",
+          "image": "/images/main-gallery/slider-block-4.webp"
+        },
+        {
+          "tag": "Эндокринолог",
+          "title": "Консультация Эндокринолога",
+          "price": "Кандидат медицинских наук 2 000 рублей <span>3 500 рублей</span>",
+          "image": "/images/main-gallery/slider-block-5.webp"
+        }
+      ]
+    }
+  ],
+  "documentSlider": [
+    {
+      "title": "Лицензии",
+      "items": [
+        {"image": "/images/document-gallery/doc1.webp"},
+        {"image": "/images/document-gallery/doc2.webp"},
+        {"image": "/images/document-gallery/doc3.webp" },
+        {"image": "/images/document-gallery/doc4.webp" },
+        {"image": "/images/document-gallery/doc1.webp"},
+        {"image": "/images/document-gallery/doc2.webp"},
+        {"image": "/images/document-gallery/doc3.webp" },
+        {"image": "/images/document-gallery/doc4.webp" }
+      ]
+    }
+  ],
+  "doctorSlider": [
+    {
+      "title": "Наши специалисты",
+      "items": [
+        {
+          "image": "/images/doctor-gallery/doctor1.webp",
+          "name": "Хаертдинов Артур Талгатович",
+          "link": "/doc1"
+        },
+        {
+          "image": "/images/doctor-gallery/doctor2.webp",
+          "name": "Хаматуллина Кадрия Маратовна",
+          "link": "/doc2"
+        },
+        {
+          "image": "/images/doctor-gallery/doctor3.webp",
+          "name": "Каримова Ляйсан Маратовна",
+          "link": "/doc3"
+        },
+        {
+          "image": "/images/doctor-gallery/doctor1.webp",
+          "name": "Хаертдинов Артур Талгатович",
+          "link": "/doc1"
+        },
+        {
+          "image": "/images/doctor-gallery/doctor2.webp",
+          "name": "Хаматуллина Кадрия Маратовна",
+          "link": "/doc2"
+        },
+        {
+          "image": "/images/doctor-gallery/doctor3.webp",
+          "name": "Каримова Ляйсан Маратовна",
+          "link": "/doc3"
+        }
+      ]
+    }
+  ],
+  "aboutUs": [
+    {
+      "title": "В нашей клинике",
+      "paragraph1": "Врачи стремятся каждому пациенту предоставить лучшие условия для жизни. <span>Мы стараемся поставить на ноги пациента с болезнью любой сложности. </span> Специалисты нашей клиники предоставляют гарантию на свои услуги, так что буквально после прохождения курса лечения с заболеванием опорно-двигательного аппарата пациент почувствует улучшение и будет чувствовать нарастающую положительную динамику в течении года.",
+      "paragraph2": "Мы сочетаем <span>научные достижения и технологические знания </span> с инновационным потенциалом в области медицинского оборудования в борьбе с некоторыми из самых больших проблем со здоровьем современного общества таких как:",
+      "list": "<ul><li>Артроз суставов</li><li>Межпозвоночные грыжи и протрузии</li><li>Травмы связок, мышц и сухожилий</li></ul>",
+      "imgLink": "/images/aboutUs.webp"
+    }
+  ],
+  "benefitsList": [
+    {
+      "title": "",
+      "items": [
+        {
+          "image": "/images/icons/ct-icon.webp",
+          "text": "Использование передового технического оборудования"
+        },
+        {
+          "image": "/images/icons/scissors-icon.webp",
+          "text": "Эффективное лечение Без Боли Без Операции"
+        },
+        {
+          "image": "/images/icons/calendar-icon.webp",
+          "text": "Быстрая запись без очередей"
+        },
+        {
+          "image": "/images/icons/doctor-icon.webp",
+          "text": "Квалифицированные врачи"
+        },
+        {
+          "image": "/images/icons/money-icon.webp",
+          "text": "Доступная стоимость услуг"
+        }
+      ]
+    }
+  ],
+  "benefitsList2": [
+    {
+      "title": "Лечение суставов и позвоночника с помощью магнитно-резонансной терапии MBST гарантирует вам результат, потому что действие MBST-теарпии:",
+      "items": [
+        {
+          "image": "/images/icons/bone-icon.webp",
+          "text": "Активизирует восстановление хрящевой ткани суставов, способствует уменьшению стадии артроза"
+        },
+        {
+          "image": "/images/icons/muscule-icon.webp",
+          "text": "Активизирует восстановительные процессы в связках сустава, улучшая подвижность в суставе"
+        },
+        {
+          "image": "/images/icons/knee-icon.webp",
+          "text": "Эффективно способствует устранению боли в суставах и воздействует на причину заболевания"
+        },
+        {
+          "image": "/images/icons/spine-icon.webp",
+          "text": "Активизирует восстановление ткани межпозвонковых дисков, способствует уменьшению размера грыж и протрузий"
+        },
+        {
+          "image": "/images/icons/runner-icon.webp",
+          "text": "Восстановление эластичности и плотности костной тканиг"
+        }
+      ]
+    }
+  ],
+  "services": [
+    {
+      "title": "Клиника эндокринологии, суставов и позвоночника в Уфе",
+      "items": [
+        {
+          "image": "/images/grid-gallery/Лечение грыжи.webp",
+          "text": "Лечение грыжи"
+        },
+        {
+          "image": "/images/grid-gallery/Лечение суставов.webp",
+          "text": "Лечение суставов"
+        },
+        {
+          "image": "/images/grid-gallery/Гирудотерапия.webp",
+          "text": "Гирудотерапия"
+        },
+        {
+          "image": "/images/grid-gallery/Ботулинотерапия.webp",
+          "text": "Ботулинотерапия"
+        },
+        {
+          "image": "/images/grid-gallery/MBST-терапия.webp",
+          "text": "MBST-терапия"
+        },
+        { "image": "/images/grid-gallery/Невролог.webp", "text": "Невролог" },
+        {
+          "image": "/images/grid-gallery/Диабетолог.webp",
+          "text": "Диабетолог"
+        },
+        {
+          "image": "/images/grid-gallery/Плазмолифтинг.webp",
+          "text": "Плазмолифтинг"
+        },
+        { "image": "/images/grid-gallery/Массаж.webp", "text": "Массаж" },
+        {
+          "image": "/images/grid-gallery/УЗ кавитация.webp",
+          "text": "УЗ кавитация"
+        },
+        {
+          "image": "/images/grid-gallery/Прессотерапия.webp",
+          "text": "Прессотерапия"
+        },
+        { "image": "/images/grid-gallery/УВТ.webp", "text": "УВТ" }
+      ]
+    }
+  ],
+  "booking": [
+    {
+      "title": "Запись на приём в клинику эндокринологии, суставов и позвоночника DiaMed",
+      "image": "/images/booking.webp"
+    }
+  ],
+  "clinicBlock": [
+    {
+      "title": "Клиника эндокринологии, суставов и позвоночника",
+      "paragraph1": "Диабет, ожирение, патология щитовидной железы, надпочечников, половых желез и другие эндокринные заболевания. У нас хватит времени и желания качественно объяснить каждому: <span>как нужно питаться, как правильно измерять сахар крови и как принимать лекарства.</span> Для желающих открыта платная школа диабета на базе нашего эндокринологического центра.",
+      "paragraph2": "Все наши врачи постоянно повышают свою квалификацию, участвуют в международных медицинских научных конференциях и, конечно же, имеют огромный опыт лечения. <span>Быть здоровым - это не сложно! Мы поможем.</span>",
+      "paragraph3": "В медицинском центре «DiaMed» можно получить консультацию эндокринолога по вопросам диагностики и лечения следующих гормональных заболеваний:",
+      "list": "<ul> <li>сахарный диабет 1 и 2 типа</li> <li>болезни щитовидной железы</li> <li>заболевания надпочечников</li> <li>гипофизарные болезни</li> <li>остеопороз</li> <li>гормональные нарушения половых желез</li> </ul>",
+      "imgLink": "/images/clinicBlock.webp",
+      "bubbleTags": [
+        "Консультация специалистов",
+        "Процедурный кабинет",
+        "Ударно-волновая терапия УВТ",
+        "Магнитно-резонансная терапия MBST",
+        "Электрофорез",
+        "Электросон",
+        "Озонотреапия",
+        "Электромиостимуляция",
+        "Гирудотерапия",
+        "Массаж",
+        "Физиотреапия",
+        "Внутривенная лазерная очистка крови",
+        "Косметология",
+        "Вызов врача на дом"
+      ]
+    }
+  ],
+  "videoSlider":[
+    {
+      "title": "Видео",
+      "items": [
+        {
+          "id": "dQw4w9WgXcQ",  
+          "image": "https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg",  
+          "name": "Видео 1",  
+          "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",  
+          "isPlaying": false 
+        },
+        {
+          "id": "8UVNT4wvIG",
+          "image": "https://img.youtube.com/vi/8UVNT4wvIGY/0.jpg",
+          "name": "Видео 3",
+          "link": "https://www.youtube.com/watch?v=8UVNT4wvIGY",
+          "isPlaying": false
+        },
+        {
+          "id": "mMfxI3r_LyA",
+          "image": "https://img.youtube.com/vi/mMfxI3r_LyA/0.jpg",
+          "name": "Видео 4",
+          "link": "https://www.youtube.com/watch?v=mMfxI3r_LyA",
+          "isPlaying": false
+        }
+      ]
+    }
+  ]
+}
